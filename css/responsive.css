@@ -1,0 +1,216 @@
+@media(max-width:991px){
+
+.navbar-nav{
+
+    margin-top:25px;
+
+}
+
+.nav-link{
+
+    margin:12px 0;
+
+}
+
+.hire-btn{
+
+    margin:20px 0 0;
+
+    display:inline-block;
+
+}
+
+}
+
+/* Hero */
+
+@media(max-width:991px){
+
+.hero-section{
+
+    text-align:center;
+
+    padding-top:120px;
+
+}
+
+.hero-title{
+
+    font-size:48px;
+
+}
+
+.hero-subtitle{
+
+    font-size:24px;
+
+}
+
+.hero-buttons{
+
+    justify-content:center;
+
+}
+
+.hero-social{
+
+    justify-content:center;
+
+}
+
+.hero-image{
+
+    margin-top:60px;
+
+}
+
+.hero-image img{
+
+    width:300px;
+
+}
+
+}
+
+/* About */
+
+@media(max-width:991px){
+
+.about-section{
+
+    text-align:center;
+
+}
+
+.experience-badge{
+
+    position:static;
+
+    margin:25px auto 0;
+
+}
+
+.about-buttons{
+
+    justify-content:center;
+
+}
+
+.about-info{
+
+    text-align:left;
+
+}
+
+}
+
+/* Featured Project */
+
+@media(max-width:991px){
+
+.project-title{
+
+    font-size:32px;
+
+}
+
+.project-buttons{
+
+    justify-content:center;
+
+}
+
+.project-tech{
+
+    justify-content:center;
+
+}
+
+}
+
+/* Experience */
+
+@media(max-width:768px){
+
+.timeline{
+
+    padding-left:25px;
+
+}
+
+.timeline::before{
+
+    left:10px;
+
+}
+
+.timeline-dot{
+
+    left:-24px;
+
+}
+
+.timeline-content{
+
+    padding:22px;
+
+}
+
+}
+
+/* Education */
+
+@media(max-width:991px){
+
+.education-card{
+
+    padding:30px;
+
+}
+
+}
+/* Footer */
+
+@media(max-width:768px){
+
+.footer{
+
+    text-align:center;
+
+}
+
+.footer-social{
+
+    justify-content:center;
+
+}
+
+.footer-bottom{
+
+    flex-direction:column;
+
+    text-align:center;
+
+}
+
+}
+
+/* Back To Top */
+
+@media(max-width:768px){
+
+.back-to-top{
+
+    width:50px;
+
+    height:50px;
+
+    right:20px;
+
+    bottom:20px;
+
+    font-size:20px;
+
+}
+
+}
